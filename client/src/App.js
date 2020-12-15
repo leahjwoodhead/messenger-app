@@ -3,7 +3,7 @@ import React from 'react'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 
 import {Join, Chat} from './components'
-import Header from './components/Header'
+import Header from './components/Header/Header'
 
 const App = () => (
     <>
